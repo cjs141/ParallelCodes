@@ -1,7 +1,8 @@
 # ParallelCodes
-### MPI and PThread Implementations for Computation Heavy Codes
+### MPI, PThread, OpenMP Implementations for Computation Heavy Codes
 * MPI Codes are used on distributed network systems
-* PThread codes are used on shared memory systems
+* PThread and OpenMP codes are used on shared memory systems
+
 
 ## MPI Code Example:
 Collatz Sequencing
